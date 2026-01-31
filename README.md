@@ -52,5 +52,20 @@ docker run mlops-hello
 
 Hello from Dockerized ML Engineer
 
+## 🎯 Learning Outcomes
+
+- Understanding containerization and reproducible environments
+
+- Managing source code using Git & GitHub
+
+- Writing production-style Dockerfiles
+
+- Following clean commit and push practices
+
+- Preparing a strong base for MLOps, ML pipelines, and Cloud deployment
+
+
+
 This repo will be extended with ML, FastAPI, MLOps pipelines, and Cloud deployment.
+
 
