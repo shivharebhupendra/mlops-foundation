@@ -40,7 +40,7 @@ It focuses on building strong foundations using **Linux, Git, Docker, and Python
 ## ▶️ How to run this project
 
 ### 1️⃣ Build the Docker image
-```bash
+```bash```
 
 docker build -t mlops-hello.
 
@@ -67,5 +67,6 @@ Hello from Dockerized ML Engineer
 
 
 This repo will be extended with ML, FastAPI, MLOps pipelines, and Cloud deployment.
+
 
 
