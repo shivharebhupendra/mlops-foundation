@@ -74,8 +74,6 @@ Bhupendra Shivhare
 
 Data Scientist | Subject Matter Expert
 
-- LinkedIn: www.linkedin.com/in/bhupendra-shivhare-a8a02a25b
-
 - 📧 Email: shivharebhupendra0@gmail.com
 
 If you are practicing SQL or preparing for Data/Data Engineering roles, feel free to connect.
